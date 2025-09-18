@@ -2,8 +2,6 @@
 
 This project showcases a collection of modern **JavaScript UI features** implemented using **vanilla JS**. It includes modal windows, smooth scrolling, tabbed interfaces, lazy-loaded images, sliders, and sticky navigation—all without external libraries or frameworks.
 
-> ⚠️ This project is purely educational and intended for practice.
-
 ---
 
 ## 🧾 Features
@@ -50,12 +48,6 @@ This project showcases a collection of modern **JavaScript UI features** impleme
 - Handling user interaction (keyboard/mouse)
 - Writing reusable and modular JS functions
 - Working with `dataset` and element attributes
-
----
-
-## 📜 License
-
-MIT — use it freely for learning or extensions.
 
 ---
 
